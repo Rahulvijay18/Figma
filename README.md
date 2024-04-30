@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## OUTPUT:
-![Screenshot (13)](https://github.com/Rahulvijay18/Figma/assets/158472939/d008eca1-9df4-4da6-ba99-811af2a2bac9)
+![alt text](<Screenshot (13).png>)
 
 
 ## RESULT:
